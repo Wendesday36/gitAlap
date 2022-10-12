@@ -1,3 +1,19 @@
-body{ background-color: antiquewhite;
-    color:black;
+body{ background-color:blue;
+    color:blue;
+}
+h1{ text-align: center;}
+p{text-align: justify;
+
+}
+.jobb img{ float: right;
+    
+}
+.bal img{ 
+    float: left;
+
+}
+#wrapper{ background-color: lightblue;}
+.torol{ clear: both;}
+.bal{
+    text-decoration: underline;
 }
